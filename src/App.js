@@ -1,9 +1,8 @@
-import './App.css';
-
+import Home from "./components/Home"
 function App() {
   return (
-    <div className="App">
-     <p className="text-green-500">Namaste Everyone, let's build Netflix gpt</p>
+    <div>
+  <Home />
     </div>
   );
 }
