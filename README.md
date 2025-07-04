@@ -1,6 +1,17 @@
 # Netflix GPT
 - Configure create-react-app
--configure tailwind css
+- configure tailwind css
+- Header
+- Routing of App
+- Login Form
+- Sign up Form 
+- Form Validation
+- useRef Hook
+- firebase setup
+- deploy on firebase production
+- implementation of redux 
+- 
+
 
 
 ....
